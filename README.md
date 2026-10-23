@@ -6,7 +6,6 @@
 
 `BASLAT.bat` dosyasına çift tıkla. Ardından tarayıcıda http://127.0.0.1:8000 adresini aç. Terminal açık kalmalı.
 
-Yönetici kullanıcı adı ve şifresi `.env` içindeki `BLOG_USERNAME` ve `BLOG_PASSWORD` satırlarında. Giriş formu ana sayfanın altında. Bu bilgileri değiştirdikten sonra sunucuyu yeniden başlat.
 
 ## Başka bilgisayarda kurulum
 
